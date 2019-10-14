@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Linking Game</string>
+    <string name="game_time">TimeRest：</string>
+    <string name="lost">Lost</string>
+    <string name="lost_restart">Fail！ Restarting</string>
+    <string name="dialog_sure">Confirm</string>
+    <string name="success">Success</string>
+    <string name="success_restart">Success！ Restarting</string>
+    <string name="remaining_time">TimeRest:%1$d</string>
+</resources>
